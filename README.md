@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tran Manh Dat 🇻🇳
+# 👋 Hi, I'm Tran Manh Dat
 
 🚀 **AI Engineer | Deep Learning Enthusiast | Problem Solver**
 
@@ -112,8 +112,8 @@ _June 2022 – October 2023_
 
 ## 🌍 Connect with Me
 
-- 🌐 LinkedIn: [https://www.linkedin.com/in/tranmanhdat](https://www.linkedin.com/in/tranmanhdat)
-- 📱 Phone: +84 987447597
+- 🌐 LinkedIn: [https://www.linkedin.com/in/manh-dat-tran-20082917a/](https://www.linkedin.com/in/manh-dat-tran-20082917a/)
+- 📱 Phone: +84 98 744 7597
 - 📧 Email: tranmanhdathsgs@gmail.com
 
 ---
