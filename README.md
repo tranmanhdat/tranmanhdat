@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tran Manh Dat
 
-🚀 **AI Engineer | Deep Learning Enthusiast | Problem Solver**
+🚀 **AI Engineer | Python Developer | Problem Solver**
 
 ---
 
